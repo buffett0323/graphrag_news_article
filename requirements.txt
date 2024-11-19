@@ -1,0 +1,10 @@
+graphrag == 0.3.6
+openai
+pandas
+pyyaml
+python-dotenv
+tiktoken
+streamlit
+torch
+transformers
+PyPDF2
