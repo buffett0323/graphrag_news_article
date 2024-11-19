@@ -1,0 +1,65 @@
+Fears of the coronavirus have fueled rising anti-Chinese sentiment online as a combination of traditional slurs and new terms such as "kungflu" conflate the
+pandemic with ethnic and national identity, say social media researchers who tracked surging expressions of hostility for papers published Wednesday.
+The researchers fear online hatred and distrust toward China and people of East Asian descent are contributing to an increasingly well-documented rash of
+real-world incidents, including verbal attacks, violence and boycotts of Asian-owned businesses.
+"The words are like a virus," said Joel Finkelstein, director of the Network Contagion Research Institute, a New Jersey-based nonprofit group that tracks hate
+speech online. "That leads to actions that are visible."
+Finkelstein's group, which reports its findings as alerts to government officials, documented a rise of conspiracy theories featuring both anti-Chinese sentiment
+and words such as "bioweapon" on 4chan's notoriously racist "Politically Incorrect" message board and, to a lesser extent, on Twitter, according to one of the
+papers.
+That paper detailed "acute increases in both the vitriol and magnitude of ethnic hate" and said they fueled the spread of misinformation from remote corners
+of the Internet into the mainstream. It also noted that an Instagram post last week called for shooting "every Asian we meet in Chinatown, that's the only way
+we can destroy the epidemic of coronavirus in NYC!" (Instagram removed the post as a violation of its policies.)
+A second research group, featuring an international team of scholars from China, Cyprus, Italy, Germany and the United States, published separate research
+showing that anti-Chinese slurs on 4chan grew sharply at key moments in the pandemic. It also found less pronounced rises in hostile references to China and
+Chinese people on Twitter.
+The title of that paper highlighted one of the many anti-Asian comments the team captured from 4chan, " 'Go eat a bat, Chang!': An Early Look on the
+Emergence of Sinophobic Behavior on Web Communities in the Face of COVID-19." Another 4chan post was even blunter, saying "THIS IS BIOTERRORISM
+NUKE CHINA NOW." (The paper has not yet been peer-reviewed, a process that typically takes months.)
+Both research groups, which include some overlapping members, charted rises in these slurs near the peak of the outbreak in Wuhan, China, where the
+pandemic began, and again last month when President Trump used the term "Chinese Virus" on Twitter.
+The research does not seek to evaluate whether Trump's comments caused the surge of ethnic slurs on 4chan, but "that was a legitimizing moment," said
+Jeremy Blackburn, an assistant professor of computer science at Binghamton University who studies online hate. He was a co-author for both papers.
+Beyond the Internet, anti-Chinese rhetoric already has had real-life implications in the United States, despite warnings from experts that prolific use of such
+language could endanger millions of Asian Americans.
+"When it becomes normalized . . . it dehumanizes Chinese and Asians," said Russell Jeung, chair of San Francisco State University's Asian American studies
+department. "It's like equating them to a face mask and equating them to the disease, so it's easy to scapegoat and attack them."
+People who look Chinese, particularly those wearing masks, are at increased risk of experiencing the same discrimination faced by people wearing turbans in
+the aftermath of the 9/11, attacks, said Jeung, who recently started tracking bias incidents against Asian Americans amid the ongoing pandemic.
+At first, Jeung's work consisted of analyzing news articles about the coronavirus, xenophobia and racism. It didn't take long, he said, for a "clear pattern" to
+emerge.
+"Following xenophobic policies or statements, the next week we would see boycotts of Asian businesses and then the following week more interpersonal
+attacks on Asian individuals," he said.
+A website, "Stop AAPI Hate" started by Jeung and two community groups, has documented more than 1,100 incidents targeting Asian Americans in at least 36
+states since launching last month. (AAPI refers to Asian Americans and Pacific Islanders.)
+The incidents have ranged from verbal harassment and shunning to physical assault.
+On March 9, a woman in San Francisco said she was spat on by a man yelling expletives about China, the New York Times reported. Later that month, an
+Asian woman riding a New York City bus was targeted by several other passengers who called her a racial slur and accused her of causing the coronavirus,
+WPIX reported. One of the attackers then struck the woman on the head with an umbrella, resulting in an injury that needed stitches, according to the news
+station.
+Yang Zhang, a Chinese co-author on the paper written by the international coalition of scholars, said he grew interested in the subject after a Chinese student
+he knows had an unpleasant encounter on a bus in Germany. One passenger said to another that the student was a "Chinese virus," said Zhang, a computer
+scientist at the Helmholtz Center for Information Security, in Saarbrücken, Germany.
+Zhang said that "even as a man who is used to hearing racial slurs about Chinese people," he was startled to discover the range and intensity of hateful
+language he found on social media once he began research for the paper. Like the others, he worried that the hostility already had spilled out in the offline
+world.
+"I always treat social media data as a good sensor of the real world," said Zhang.
+Charissa Cheah, a psychology professor at the University of Maryland at Baltimore County who is leading another study examining discrimination against
+Chinese Americans during the pandemic, said anti-Chinese language such as "kungflu" and "batsoup" have their roots in historically racist tropes that have
+long been used to denigrate Asian Americans and cast them as foreigners no matter how long they have lived in the United States.
+"Covid-19 is merely refueling processes that are already there," said Cheah, whose research will also study Twitter activity related to the outbreak. "I worry
+that we might interpret these findings as, 'Oh, it's covid-19 that's causing it.' This is simply not true. The current pandemic is merely providing an outlet and
+making it easier to justify expressions of Sinophobia." Covid-19 is the disease caused by the novel coronavirus.
+Another indicator of rising hostility toward China is the surging use of Twitter hashtags such as #BlameChina, #ChinaLiedPeopleDied, #ChinaVirus,
+#WuhanCoronaVirus and #ChinaCoronaVirus, according to an unpublished analysis done by Clemson University researcher Darren Linvill.
+The hashtag #ChineseVirus surged to nearly 130,000 uses the day after Trump used it in a tweet. Linvill, an assistant professor of communication, said the
+use was particularly prominent among accounts that regularly support Trump on Twitter.
+But he cautioned that the character of anti-Chinese expressions varies sharply across social media platforms.
+"Anti-Chinese sentiment is rising, and it manifests itself differently in different places," Linvill said. "On 4chan, it's racist. On Twitter, it's political."
+Twitter spokeswoman Katie Rosborough said that the study by the international group of scholars, which like most academic research on Twitter relied on a 1
+percent sample of all tweets, may miss the "nuanced political context around content that is posted on Twitter."
+"We have zero-tolerance policies in place that address clear threats of violence, abuse and harassment, and hateful conduct," she said. "If we identify accounts
+that violate these rules, we'll take enforcement action."
+A week after Trump started publicly calling coronavirus the "Chinese virus" and defended his use of the label against critics who accused him of being racist,
+the president implored people on Twitter to "protect our Asian American community."
+The president also stopped using "Chinese virus" on social media and during news briefings.
