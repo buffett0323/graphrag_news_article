@@ -1,3 +1,4 @@
+import argparse, json
 import os
 import pandas as pd
 import tiktoken
@@ -122,19 +123,34 @@ class RAG:
         return result.response
 
 if __name__ == "__main__":
+    # Parse arguments
+    parser = argparse.ArgumentParser(description="Run global search on two datasets with a given query.")
+    parser.add_argument('--query', type=str, required=True, help="The query to ask about each dataset")
+    parser.add_argument('--path_bf', type=str, default='./test_before')
+    parser.add_argument('--path_af', type=str, default='./test_after')
+    
+    args = parser.parse_args()
+
+    # Initialize RAG instances for "before" and "after"
     article_before = RAG('./test_before')
     article_after = RAG('./test_after')
-    print("----------------- Welcome to InsightLink -----------------")
-    question = input("> What question do you want to ask about each dataset? \n")
-    response_before = article_before.global_search(question)
-    response_after = article_after.global_search(question)
-    print('Response to the question (Before 2021/03/16)')
-    print(response_before)
-    print('Response to the question (After 2021/03/16)')
-    print(response_after)
-    print('Comparison Result')
-    comparison_response = compare_responses(question, response_before, response_after)
-    print(comparison_response)
+    
+    
+
+    # Run global search
+    response_before = article_before.global_search(args.query)
+    response_after = article_after.global_search(args.query)
+
+    # Comparison results
+    comparison_response = compare_responses(args.query, response_before, response_after)
+
+    # Return JSON output
+    output = {
+        "response_before": response_before,
+        "response_after": response_after,
+        "comparison": comparison_response
+    }
+    print(json.dumps(output))  # Print JSON response for the backend to parse
 
 
 
