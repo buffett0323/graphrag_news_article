@@ -132,8 +132,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Initialize RAG instances for "before" and "after"
-    article_before = RAG('./test_before')
-    article_after = RAG('./test_after')
+    article_before = RAG(args.path_bf)
+    article_after = RAG(args.path_af)
     
     
 
